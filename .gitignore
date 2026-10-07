@@ -1,0 +1,26 @@
+# Proteus Design Suite workspace and temporary files
+*.workspace
+*.pdsbak
+*.bak
+*.BACKUP
+*.DSK
+*.SDF
+*.LXT
+*.VCD
+*.LOG
+*.TMP
+*.tmp
+
+# Proteus auto-backup directory
+[Pp]roject [Bb]ackups/
+Project Backups/
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
